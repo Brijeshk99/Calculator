@@ -3,6 +3,8 @@
 
 A basic calculator application built using HTML, CSS, and JavaScript. This project demonstrates the functionality of a simple calculator capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+###Project Link  https://brijeshk99.github.io/Calculator/
+
 #Features
 
 User Interface: Clean and responsive design for desktop and mobile.
